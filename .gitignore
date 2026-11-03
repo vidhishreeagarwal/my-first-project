@@ -11,6 +11,15 @@ logs/
 .env
 .env.*
 !.env.example
+credentials*.json
+*credentials*.json
+secrets*.json
+*secrets*.json
+service-account*.json
+*.pem
+*.key
+id_rsa
+id_ed25519
 
 # Editors and IDEs
 .vscode/
