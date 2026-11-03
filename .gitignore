@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+logs/
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+
+# Common caches
+__pycache__/
+*.py[cod]
+.cache/
+node_modules/
