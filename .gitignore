@@ -22,7 +22,8 @@ id_rsa
 id_ed25519
 
 # Editors and IDEs
-.vscode/
+.vscode/*
+!.vscode/mcp.json
 .idea/
 *.swp
 
